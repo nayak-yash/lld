@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazon-locker-service/amazon-locker-service.iml" filepath="$PROJECT_DIR$/amazon-locker-service/amazon-locker-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atm-machine/atm-machine.iml" filepath="$PROJECT_DIR$/atm-machine/atm-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-my-show/book-my-show.iml" filepath="$PROJECT_DIR$/book-my-show/book-my-show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lld.iml" filepath="$PROJECT_DIR$/.idea/lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-lot/parking-lot.iml" filepath="$PROJECT_DIR$/parking-lot/parking-lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rate-limiter/rate-limiter.iml" filepath="$PROJECT_DIR$/rate-limiter/rate-limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uber/uber.iml" filepath="$PROJECT_DIR$/uber/uber.iml" />
+    </modules>
+  </component>
+</project>
