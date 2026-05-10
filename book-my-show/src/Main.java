@@ -12,16 +12,6 @@ import strategy.locking.InMemoryLockProvider;
 
 import java.util.*;
 
-/**
- * BookMyShow Application Main Driver
- *
- * Demonstrates all key scenarios:
- * 1. Setup: Create theatres, screens, and seats
- * 2. Content Management: Add movies and shows
- * 3. Basic Booking: Create bookings with seat locking
- * 4. Payment: Confirm bookings with different payment types (CARD, UPI)
- * 5. Edge Cases: Handle lock expiry, concurrent booking attempts, and cancellations
- */
 public class Main {
 
     public static void main(String[] args) {

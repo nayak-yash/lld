@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/lld.iml" filepath="$PROJECT_DIR$/.idea/lld.iml" />
       <module fileurl="file://$PROJECT_DIR$/parking-lot/parking-lot.iml" filepath="$PROJECT_DIR$/parking-lot/parking-lot.iml" />
       <module fileurl="file://$PROJECT_DIR$/rate-limiter/rate-limiter.iml" filepath="$PROJECT_DIR$/rate-limiter/rate-limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splitwise/splitwise.iml" filepath="$PROJECT_DIR$/splitwise/splitwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
       <module fileurl="file://$PROJECT_DIR$/uber/uber.iml" filepath="$PROJECT_DIR$/uber/uber.iml" />
     </modules>
